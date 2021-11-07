@@ -108,7 +108,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![App Video](demo.mp4)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## 🚀 About Me
